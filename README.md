@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @windy-t
-- 👀 I’m study in computer science
+- 👀 I’m studying computer science
 - 🌱 I’m currently looking forward to conncect with talents here
 - 💞️ I’m looking to collaborate on data analysis and data scientist
 - 📫 Welcome to reach me Telegram: windy_66
